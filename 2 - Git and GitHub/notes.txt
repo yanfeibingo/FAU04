@@ -3,3 +3,13 @@ git config --global user.email "yanfeibingo@163.com"
 
 gInitializing a Git Repository
 git init
+
+Adding files into staging area
+git add .
+
+Shows the status of the files
+git status
+
+Create a commit
+git commit -m "This is the description."
+
