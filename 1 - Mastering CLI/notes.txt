@@ -1,0 +1,33 @@
+mkdir: Make directory
+mkdir [directory_name]
+
+rmdir: Remove directory
+rmdir [directory_name]
+
+pwd:Print/present working directory
+pwd:/c/Users/yanfe/OneDrive/桌面/OneCodeCamp
+
+ls: List Command
+ls
+
+cd: Change directory
+cd [directory_path]
+
+cd ..: Go back on directory
+cd ..
+
+touch: Create files
+touch [file_name]
+
+rm: Remove files
+rm [file_name]
+
+cp:Copy files
+cp [source_file] [destination_path]
+
+mv: Move files
+mv [source_file][destination_path]
+
+mv: Rename files
+mv [old_filename][new_filename]
+
