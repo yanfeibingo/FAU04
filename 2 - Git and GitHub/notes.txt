@@ -13,3 +13,10 @@ git status
 Create a commit
 git commit -m "This is the description."
 
+git log
+
+git branch 
+*master
+
+git branch [branch_name]
+
